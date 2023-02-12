@@ -19,7 +19,7 @@
 	import Counter from './Counter.svelte';
 	import Something from './something.svelte';
 	import welcome from '../lib/images/svelte-welcome.webp';
-	import notok from '../lib/images/svelte-welcome2.png';
+	import notok from '../lib/images/svelte-welcome.png';
 
 	let x: Something;
 
